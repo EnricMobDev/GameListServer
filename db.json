@@ -1,0 +1,19 @@
+{
+	"games": [{
+		"id": 1,
+		"type": "Linial",
+		"name": "Encuentra al asesino de Badalona",
+		"locations": {
+			"latitude": 41.4500389,
+			"longitude": 2.2474101
+		}
+	}, {
+		"id": 2,
+		"type": "Enigma",
+		"name": "Porque se suicido John Miller",
+		"locations": {
+			"latitude": 41.4300422,
+			"longitude": 2.2322341
+		}
+	}]
+}
