@@ -10,16 +10,16 @@
                "title":"Eso son huellas?",
                "hint":"Al girar la esquina vimos unas huellas que se dirigían a la entrada de la estación, el asesino se había escapado en tren?.Seguimos buscando más huellas y de repente alguien echó a correr. Que estaba mirando?.Al parecer el asesino tenía un plan, quería buscar una ruta de montaña?.Parece que lo hemos descubierto y ha tenido que cambiar de plan.",
                "locations":{
-                  "latitude":41.4458813,
-                  "longitude":2.2467705
+                  "latitude":41.4454975,
+                  "longitude":2.2476804
                }
             },
             {
                "title":"La calle del Mar",
                "hint":"Tras seguir sus pasos nos encontramos con varios caminos, se fue hacia la playa?. Subió la calle del Mar?. Continuó hacia la rambla?. Comenzamos a investigar y de repente vimos sangre en el suelo, estaba herido?. Al parecer si, después de la carrera desde la estación tuvo que parar para coger aire, estaba perdido no sabía que camino coger, claramente no se conocía la zona.",
                "locations":{
-                  "latitude":41.4469716,
-                  "longitude":2.2502257
+                  "latitude":41.4471458,
+                  "longitude":2.2503292
                }
             }
          ]
