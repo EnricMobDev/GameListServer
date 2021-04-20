@@ -1,39 +1,35 @@
 {
    "games":[
       {
-         "id":1,
-         "type":"Linial",
-         "name":"Encuentra al asesino de Badalona",
-         "description":"Era un jueves cualquiera a media noche, cuando de repente se escucharon unos gritos aterradores. Al parecer provenían de la estación de tren, nos acercamos y vimos a un hombre tirado en el suelo. Efectivamente acabábamos de presenciar un asesinato!!. Al llegar la policía nos dijo que eramos los únicos sospechosos ya que teníamos las manos ensangrentadas. Intentamos explicarles que la sangre era de intentar ayudar al hombre, pero nadie nos creyó. El comisario nos dijo que solo teníamos 2 días para demostrar que no habíamos sido nosotros ya que no teníamos coartada.Decidimos ponernos manos a la obra y empezar a buscar pistas para resolver el crimen.",
-         "riddles":[
-            {
-               "title":"Eso son huellas?",
-               "hint":"Al girar la esquina vimos unas huellas que se dirigían a la entrada de la estación, el asesino se había escapado en tren?.Seguimos buscando más huellas y de repente alguien echó a correr. Que estaba mirando?.Al parecer el asesino tenía un plan, quería buscar una ruta de montaña?.Parece que lo hemos descubierto y ha tenido que cambiar de plan.",
-               "locations":{
-                  "latitude":41.4454975,
-                  "longitude":2.2476804
-               }
-            },
-            {
-               "title":"La calle del Mar",
-               "hint":"Tras seguir sus pasos nos encontramos con varios caminos, se fue hacia la playa?. Subió la calle del Mar?. Continuó hacia la rambla?. Comenzamos a investigar y de repente vimos sangre en el suelo, estaba herido?. Al parecer si, después de la carrera desde la estación tuvo que parar para coger aire, estaba perdido no sabía que camino coger, claramente no se conocía la zona.",
-               "locations":{
-                  "latitude":41.4471458,
-                  "longitude":2.2503292
-               }
-            }
-         ]
+         "id": "E621E1F8-C36C-495A-93FC-0C247A3E6E5E",
+         "type": "Lineal",
+         "image": "https://unsplash.com/photos/W1J8mMlkmXY",
+         "title": "Encuentra al asesino de Badalona",
+         "description": "Era un jueves cualquiera a media noche, cuando de repente se escucharon unos gritos aterradores. Al parecer provenían de la estación de tren, nos acercamos y vimos a un hombre tirado en el suelo. Efectivamente acabábamos de presenciar un asesinato!!. Al llegar la policía nos dijo que eramos los únicos sospechosos ya que teníamos las manos ensangrentadas. Intentamos explicarles que la sangre era de intentar ayudar al hombre, pero nadie nos creyó. El comisario nos dijo que solo teníamos 2 días para demostrar que no habíamos sido nosotros ya que no teníamos coartada.Decidimos ponernos manos a la obra y empezar a buscar pistas para resolver el crimen.",
+         "number_of_chests": 6,
+         "difficulty": "Medium",
+         "estimated_time": 43200000, 
+         "location": {
+            "latitude":41.4471458,
+            "longitude":2.2503292
+         }
       },
       {
-         "id":2,
-         "type":"Enigma",
-         "name":"Porque se suicido John Miller",
-         "description":"Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
-         "riddles":[
-            {
-               "title":"Solo el camarero lo sabe",
-               "hint":"Estaba solo?",
-               "locations":{
+         "id": "E621E1F8-C36C-495A-93FC-0C247A3E6E5F",
+         "type": "Enigma",
+         "image": "https://unsplash.com/photos/Ilo2O4eukB4",
+         "title": "Porque se suicido John Miller",
+         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
+         "number_of_chests": 4,
+         "difficulty": "Easy",
+         "estimated_time": 43200000,
+         "location": {
+            "latitude":41.4471458,
+            "longitude":2.2603292
+         }
+      }
+   ]
+}
                   "latitude":41.4300422,
                   "longitude":2.2322341
                }
