@@ -10,8 +10,8 @@
          "difficulty": "Medium",
          "estimated_time": 50, 
          "location": {
-            "latitude": 41.454977,
-            "longitude": 2.251939
+            "latitude": 41.4543738,
+            "longitude": 2.2510691
          }
       },
       {
@@ -24,8 +24,8 @@
          "difficulty": "Easy",
          "estimated_time": 180,
          "location": {
-            "latitude": 41.4554660, 
-            "longitude": 2.2521300
+            "latitude": 41.4459403, 
+            "longitude": 2.2139399
          }
       }
    ]
